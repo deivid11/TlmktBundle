@@ -1,0 +1,4 @@
+services:
+#    tlmkt.example:
+#        class: Traveler\TlmktBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
